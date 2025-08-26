@@ -1,77 +1,56 @@
-# 🌟 Fathima Shahana – Data Analyst Portfolio  
+# 🚀 AI Resume Builder
 
-Welcome to my portfolio! 🚀  
-I am a Data Analyst passionate about turning raw data into actionable insights.  
-This repository showcases my featured projects in SQL, Python, Excel, Power BI, and Business Analytics.  
+A comprehensive AI-powered resume builder with ATS analysis and job matching capabilities.
 
----
+## ✨ Features
 
-## 👩‍💻 About Me
-I am a detail-oriented Data Analyst with strong skills in **data retrieval, cleaning, visualization, and reporting**.  
-My work focuses on solving business problems using data and creating **interactive dashboards** for decision-making.  
+- **AI-Powered Content Generation**: Smart professional summaries and experience enhancement
+- **ATS Score Analysis**: Comprehensive scoring of resume formatting, structure, and keywords
+- **Job Matching**: Paste LinkedIn job descriptions for AI-powered optimization
+- **Modern Templates**: ATS-friendly resume designs
+- **6-Step Wizard**: Guided resume creation process
 
-- 🎓 Graduate in Economics, with a specialization in Data Analytics  
-- 📊 Experienced in **SQL, Python, Excel, Power BI**  
-- 💼 Hands-on projects in **Sales, Marketing Campaigns, and Forecasting**  
-- 🚀 Currently building my professional portfolio through real-world case studies and internships  
+## 🛠️ Tech Stack
 
----
+- **Frontend**: React + Tailwind CSS
+- **Backend**: FastAPI + Python
+- **Database**: MongoDB
+- **AI**: GPT-4o integration
 
-## 🛠️ Skills & Tools
-- **Languages**: Python, SQL  
-- **Databases**: MS SQL Server, MySQL  
-- **Data Analysis**: Pandas, NumPy  
-- **Visualization**: Power BI, Excel, Matplotlib, Seaborn  
-- **Other**: GitHub, Statistics, Business Analytics  
+## 🏃‍♂️ Quick Start
 
----
+### Backend Setup
+bash cd backend pip install -r requirements.txt # Add your AI API keys to .env file uvicorn server:app --reload --host 0.0.0.0 --port 8001
+### Frontend Setup
+bash cd frontend yarn install yarn start
+## 🎯 Key Features
 
-## 📂 Featured Projects  
+### ATS Analysis
+- Overall scoring (0-100)
+- Formatting analysis
+- Keyword density vs job requirements
+- Structure evaluation
+- Missing keywords identification
 
-### 1. 🚀 AI Resume Builder  
-- Full-stack **AI-powered resume builder** with ATS analysis and job matching  
-- **Tech Stack**: React, Tailwind CSS, FastAPI, Python, MongoDB, OpenAI API  
-- [🔗 View on GitHub](https://github.com/YOUR_USERNAME/ai-resume-builder)
+### AI Features
+- Professional summary generation
+- Experience enhancement suggestions
+- Job matching recommendations
+- Skills suggestions by industry
 
----
+## 📸 Screenshots
 
-### 2. 📊 Marketing Campaign Analysis – Deployad & Primus  
-- Analyzed **35K+ campaigns** to evaluate ROI, cost per lead, and conversion trends  
-- Built **Power BI dashboards** for regional campaign performance  
-- [🔗 View on GitHub](https://github.com/shahana707/marketing-campaign-analysis)
+<img width="1778" height="912" alt="Ai resume builder" src="https://github.com/user-attachments/assets/2e6895e1-2a20-44ce-a458-1db8c6bf7f2d" />
 
----
 
-### 3. 🏪 Walmart Sales Forecasting  
-- Predicted **weekly sales for 45 stores** using ARIMA & Prophet models  
-- Identified correlations with unemployment and holiday seasons  
-- [🔗 View on GitHub](https://github.com/shahana707/walmart-sales-forecasting)
+## 🤝 Contributing
 
----
+Feel free to submit issues and enhancement requests!
 
-### 4. 📈 Sales vs Target Dashboard (Power BI)  
-- Compared **actual vs target sales** across multiple products  
-- Highlighted **top/bottom performers** and created variance KPIs  
-- [🔗 View on GitHub](https://github.com/shahana707/sales-performance-dashboard)
+## 📄 License
 
----
+This project is licensed under the MIT License.<img width="1778" height="912" alt="Ai resume builder" src="https://github.com/user-attachments/assets/2c63d244-d453-4afb-a134-79b4bacbd806" />
 
-## 📸 Screenshots  
-<img width="1741" height="808" alt="FMCG Project" src="https://github.com/user-attachments/assets/c4d1f2ed-96ac-4652-9170-fd671436ae8b" />
-<img width="1451" height="819" alt="PRIMUS 2 LNKDN" src="https://github.com/user-attachments/assets/ff03405e-3722-4dd7-8065-2252794f2654" />
-<img width="1434" height="813" alt="Primus 1 LNKDN" src="https://github.com/user-attachments/assets/63b55f03-1b1f-409e-bf32-4d9dec315390" />
-<img width="1444" height="818" alt="Deloyad 2 LNKDN" src="https://github.com/user-attachments/assets/a0a0b2b1-bc7f-4f46-b096-366317cc83a0" />
-<img width="1434" height="806" alt="Deployad 1 LNKDN" src="https://github.com/user-attachments/assets/41152a07-f2c8-41a2-84a6-99c25faf5456" />
-  
 
----
 
-## 📬 Contact Me  
-- LinkedIn: [linkedin.com/in/shahanasf7](https://linkedin.com/in/shahanasf7)  
-- GitHub: [github.com/shahana707](https://github.com/shahana707)  
-- Email: fathimashahana061@gmail.com  
-
----
-
-⭐ If you like my work, don’t forget to **star this repo** and connect with me on LinkedIn!  
 
