@@ -38,11 +38,6 @@ bash cd frontend yarn install yarn start
 - Job matching recommendations
 - Skills suggestions by industry
 
-## 📸 Screenshots
-
-<img width="1778" height="912" alt="Ai resume builder" src="https://github.com/user-attachments/assets/2e6895e1-2a20-44ce-a458-1db8c6bf7f2d" />
-
-
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
